@@ -130,8 +130,4 @@ ASSETS_ENABLE_VERSION=false
 
 ## Contributors
 
-- [Sang Nguyen](https://github.com/sangnguyenplus)
-- [Dinh Quoc Han](https://github.com/dinhquochan)
-
-## License
-[MIT](LICENSE) © Sang Nguyen
+- [EhsanOfficial](https://github.com/esf495)
